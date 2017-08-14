@@ -3,6 +3,8 @@
 
 Haskell library for working with RPM packages.
 
+updated for PR
+
 
 Preparing local development environment for Haskell
 ===================================================
